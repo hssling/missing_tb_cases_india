@@ -1,0 +1,39 @@
+,corr
+2023,1.0
+2023__tb_patients_notified,1.0
+2023__treated_successfully,0.999
+tb_cases_notification_in_2024_january_to_october,0.999
+2024__tb_patients_notified,0.998
+2022,0.996
+2021,0.994
+2020,0.989
+tb_deaths__2024_january_to_october,0.97
+Children under 5 years who are underweight (weight-for-age)18 (%),0.447
+Children under 5 years who are stunted (height-for-age)18 (%),0.432
+Children age 6-59 months who are anaemic (<11.0 g/dl)22 (%),0.331
+Children under 5 years who are wasted (weight-for-height)18 (%),0.298
+percentage_of_tb_cases_out_of_the_total_tb_cases_notified_in_2024_januaryoctober__0_to_14_years,0.284
+percentage_of_tb_cases_out_of_the_total_tb_cases_notified_in_2023_januarydecember__0_to_14_years,0.237
+percentage_of_tb_cases_out_of_the_total_tb_cases_notified_in_2024_januaryoctober__15_years_to_30_years,0.21
+percentage_of_tb_cases_out_of_the_total_tb_cases_notified_in_2023_januarydecember__15_years_to_30_years,0.122
+Men age 15 years and above who use any kind of tobacco (%),0.077
+percentage_of_tb_cases_out_of_the_total_tb_cases_notified_in_2023_januarydecember__46_years_to_60_years,0.013
+percentage_of_tb_cases_out_of_the_total_tb_cases_notified_in_2023_januarydecember__31_years_to_45_years,-0.028
+percentage_of_tb_cases_out_of_the_total_tb_cases_notified_in_2024_januaryoctober__31_years_to_45_years,-0.067
+percentage_of_tb_deaths_of_total_tb_cases_reported_in_2023_januarydecember__31_years_to_45_years,-0.077
+percentage_of_tb_deaths_of_total_tb_cases_reported_in_2023_januarydecember__0_to_14_years,-0.087
+percentage_of_tb_deaths_of_total_tb_cases_reported_in_2023_januarydecember__15_years_to_30_years,-0.092
+percentage_of_tb_cases_out_of_the_total_tb_cases_notified_in_2024_januaryoctober__46_years_to_60_years,-0.098
+percentage_of_tb_deaths_of_total_tb_cases_reported_in_2024_januaryoctober__31_years_to_45_years,-0.106
+percentage_of_tb_deaths_of_total_tb_cases_reported_in_2024_januaryoctober__46_years_to_60_years,-0.131
+percentage_of_tb_deaths_of_total_tb_cases_reported_in_2023_januarydecember__46_years_to_60_years,-0.134
+percentage_of_tb_deaths_of_total_tb_cases_reported_in_2024_januaryoctober__15_years_to_30_years,-0.149
+percentage_of_tb_deaths_of_total_tb_cases_reported_in_2024_januaryoctober__0_to_14_years,-0.152
+percentage_of_tb_deaths_of_total_tb_cases_reported_in_2023_januarydecember__60_years,-0.18
+percentage_of_tb_cases_out_of_the_total_tb_cases_notified_in_2023_januarydecember___60_years,-0.189
+percentage_of_tb_cases_out_of_the_total_tb_cases_notified_in_2024_januaryoctober___60_years,-0.189
+Women age 15 years and above who use any kind of tobacco (%),-0.198
+percentage_of_tb_deaths_of_total_tb_cases_reported_in_2024_januaryoctober__60_years,-0.202
+Households using clean fuel for cooking3 (%),-0.208
+Population living in households that use an improved sanitation facility2 (%),-0.332
+Men age 15 years and above who consume alcohol (%),-0.385

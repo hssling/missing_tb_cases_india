@@ -1,0 +1,38 @@
+coef,feature,r2
+0.214,2020,1.0
+-0.051,2021,1.0
+-0.089,2022,1.0
+915.291,percentage_of_tb_cases_out_of_the_total_tb_cases_notified_in_2023_januarydecember__0_to_14_years,1.0
+593.773,percentage_of_tb_cases_out_of_the_total_tb_cases_notified_in_2023_januarydecember__15_years_to_30_years,1.0
+-686.451,percentage_of_tb_cases_out_of_the_total_tb_cases_notified_in_2023_januarydecember__31_years_to_45_years,1.0
+290.398,percentage_of_tb_cases_out_of_the_total_tb_cases_notified_in_2023_januarydecember__46_years_to_60_years,1.0
+-1113.011,percentage_of_tb_cases_out_of_the_total_tb_cases_notified_in_2023_januarydecember___60_years,1.0
+-281.835,percentage_of_tb_cases_out_of_the_total_tb_cases_notified_in_2024_januaryoctober__0_to_14_years,1.0
+-750.927,percentage_of_tb_cases_out_of_the_total_tb_cases_notified_in_2024_januaryoctober__15_years_to_30_years,1.0
+-120.675,percentage_of_tb_cases_out_of_the_total_tb_cases_notified_in_2024_januaryoctober__31_years_to_45_years,1.0
+374.861,percentage_of_tb_cases_out_of_the_total_tb_cases_notified_in_2024_januaryoctober__46_years_to_60_years,1.0
+778.576,percentage_of_tb_cases_out_of_the_total_tb_cases_notified_in_2024_januaryoctober___60_years,1.0
+1831.621,percentage_of_tb_deaths_of_total_tb_cases_reported_in_2023_januarydecember__0_to_14_years,1.0
+-772.806,percentage_of_tb_deaths_of_total_tb_cases_reported_in_2023_januarydecember__15_years_to_30_years,1.0
+1503.932,percentage_of_tb_deaths_of_total_tb_cases_reported_in_2023_januarydecember__31_years_to_45_years,1.0
+-814.525,percentage_of_tb_deaths_of_total_tb_cases_reported_in_2023_januarydecember__46_years_to_60_years,1.0
+437.389,percentage_of_tb_deaths_of_total_tb_cases_reported_in_2023_januarydecember__60_years,1.0
+570.227,percentage_of_tb_deaths_of_total_tb_cases_reported_in_2024_januaryoctober__0_to_14_years,1.0
+-1837.564,percentage_of_tb_deaths_of_total_tb_cases_reported_in_2024_januaryoctober__15_years_to_30_years,1.0
+-893.265,percentage_of_tb_deaths_of_total_tb_cases_reported_in_2024_januaryoctober__31_years_to_45_years,1.0
+-547.39,percentage_of_tb_deaths_of_total_tb_cases_reported_in_2024_januaryoctober__46_years_to_60_years,1.0
+-145.387,percentage_of_tb_deaths_of_total_tb_cases_reported_in_2024_januaryoctober__60_years,1.0
+-0.306,tb_cases_notification_in_2024_january_to_october,1.0
+1.649,tb_deaths__2024_january_to_october,1.0
+-0.146,2023__tb_patients_notified,1.0
+0.252,2023__treated_successfully,1.0
+0.494,2024__tb_patients_notified,1.0
+331.8,Children under 5 years who are stunted (height-for-age)18 (%),1.0
+114.165,Children under 5 years who are underweight (weight-for-age)18 (%),1.0
+-782.714,Children under 5 years who are wasted (weight-for-height)18 (%),1.0
+226.638,Children age 6-59 months who are anaemic (<11.0 g/dl)22 (%),1.0
+310.831,Men age 15 years and above who use any kind of tobacco (%),1.0
+-174.185,Women age 15 years and above who use any kind of tobacco (%),1.0
+-167.28,Men age 15 years and above who consume alcohol (%),1.0
+183.118,Population living in households that use an improved sanitation facility2 (%),1.0
+63.145,Households using clean fuel for cooking3 (%),1.0

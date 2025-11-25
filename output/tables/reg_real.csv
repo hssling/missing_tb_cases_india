@@ -1,0 +1,10 @@
+feature,coef,r2
+Children under 5 years who are stunted (height-for-age)18 (%),999.115219803527,0.3947614942122275
+Children under 5 years who are underweight (weight-for-age)18 (%),3489.3151309192012,0.3947614942122275
+Children under 5 years who are wasted (weight-for-height)18 (%),-5010.702098891293,0.3947614942122275
+Children age 6-59 months who are anaemic (<11.0 g/dl)22 (%),469.4665787155768,0.3947614942122275
+Men age 15 years and above who use any kind of tobacco (%),1979.6224117687896,0.3947614942122275
+Women age 15 years and above who use any kind of tobacco (%),-1590.2184090631138,0.3947614942122275
+Men age 15 years and above who consume alcohol (%),-1064.8343214062822,0.3947614942122275
+Population living in households that use an improved sanitation facility2 (%),40.15355457142027,0.3947614942122275
+Households using clean fuel for cooking3 (%),593.0206343908039,0.3947614942122275
