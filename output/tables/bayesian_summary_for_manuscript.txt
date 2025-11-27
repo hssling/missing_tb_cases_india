@@ -1,0 +1,6 @@
+
+Table: Bayesian Incidence Estimates for Top High-Burden States (2023)
+
+| State | Mean Incidence (95% CRI) | Coefficient of Variation |
+|-------|---------------------------|---------------------------|
+$ | $ | $ | $ | $ | $ | $ | $ | $ | $ | 
