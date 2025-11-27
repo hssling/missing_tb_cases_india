@@ -1,0 +1,54 @@
+cd d:/research-automation/TB notification && python scripts/15_integrated_mcmc_system_risk_analysis.py
+Risk cols renamed: ['stunting_pct', 'underweight_pct', 'wasting_pct', 'anemia_pct', 'male_tobacco_pct', 'female_tobacco_pct', 'male_alcohol_pct']
+Protective cols renamed: ['sanitation_pct', 'cleanfuel_pct']
+Available columns: ['state_ut', 'stunting_pct', 'underweight_pct', 'wasting_pct', 'anemia_pct', 'male_tobacco_pct', 'female_tobacco_pct', 'male_alcohol_pct', 'sanitation_pct', 'cleanfuel_pct', 'state', 'dm_known_pct', 'dm_treated_pct', 'tob_known_pct', 'tob_linkage_pct', 'alc_known_pct', 'alc_linkage_pct', 'system_score']
+Processed stunting_pct: mean=31.367, std=5.394
+Processed underweight_pct: mean=26.251, std=7.695
+Processed wasting_pct: mean=16.998, std=4.587
+Processed anemia_pct: mean=61.561, std=12.561
+Processed male_tobacco_pct: mean=39.128, std=15.553
+Processed female_tobacco_pct: mean=13.461, std=15.087
+Processed male_alcohol_pct: mean=25.807, std=11.917
+Processed sanitation_pct: mean=76.352, std=12.632
+Processed cleanfuel_pct: mean=60.818, std=21.883
+Available risk z-cols: ['stunting_pct_z', 'underweight_pct_z', 'wasting_pct_z', 'anemia_pct_z', 'male_tobacco_pct_z', 'female_tobacco_pct_z', 'male_alcohol_pct_z']
+Available protective z-cols: ['sanitation_pct_z', 'cleanfuel_pct_z']
+Risk score computed successfully
+Merged data shape: (31, 8)
+               state  mcmc_missed_mean  ...  system_z    risk_z
+0     Andhra Pradesh      1.292502e+04  ...  0.439777 -0.609179
+1  Arunachal Pradesh      4.695425e+04  ... -0.605814 -0.142658
+2              Assam      7.002305e+04  ... -1.477471  1.097527
+3              Bihar      1.098951e+06  ... -2.101148  1.903598
+4         Chandigarh      6.372782e+04  ...  0.244971 -1.740382
+
+[5 rows x 8 columns]
+Correlation MCMC missed vs System z: -0.315
+Correlation MCMC missed vs Risk z: 0.300
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:       mcmc_missed_mean   R-squared:                       0.126
+Model:                            OLS   Adj. R-squared:                  0.063
+Method:                 Least Squares   F-statistic:                     2.014
+Date:                Thu, 27 Nov 2025   Prob (F-statistic):              0.152
+Time:                        10:08:17   Log-Likelihood:                -418.98
+No. Observations:                  31   AIC:                             844.0
+Df Residuals:                      28   BIC:                             848.3
+Df Model:                           2                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const       7.592e+04   3.39e+04      2.239      0.033    6464.932    1.45e+05
+system_z   -3.973e+04   3.72e+04     -1.068      0.295   -1.16e+05    3.65e+04
+risk_z      3.489e+04   3.79e+04      0.920      0.366   -4.28e+04    1.13e+05
+==============================================================================
+Omnibus:                       55.095   Durbin-Watson:                   2.132
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              371.238
+Skew:                           3.682   Prob(JB):                     2.44e-81
+Kurtosis:                      18.270   Cond. No.                         1.76
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+Integrated analysis complete. See reports/integrated_mcmc_system_risk_analysis.md
